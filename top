@@ -1,0 +1,23 @@
+[33mcommit 2826042cc6816078005a9794a6d46a97ab9a3362[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31mheroku/master[m[33m)[m
+Author: Dan Smestad <hockeydan25@gmail.com>
+Date:   Sun Nov 28 12:07:59 2021 -0600
+
+    update App message
+
+[33mcommit 156f2016c98446168d596cddbb5c793004277a2f[m
+Author: Dan Smestad <hockeydan25@gmail.com>
+Date:   Sun Nov 28 12:05:50 2021 -0600
+
+    Vue welcom  message update
+
+[33mcommit f30a696ca8b2c850d6c462c4add90d195f8c9c51[m
+Author: Dan Smestad <hockeydan25@gmail.com>
+Date:   Sun Nov 28 11:59:15 2021 -0600
+
+    update API message
+
+[33mcommit 8f4a3dcfde10be56ded57f4f409350bc5da3da4e[m
+Author: Dan Smestad <hockeydan25@gmail.com>
+Date:   Wed Nov 24 13:25:04 2021 -0600
+
+    commit to heroku all files first_express_api

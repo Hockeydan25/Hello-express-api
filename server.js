@@ -6,6 +6,7 @@ let app = express() // creates web app.
 
 app.use(express.static(path.join(__dirname, 'hello-vue', 'dist')))
 //statict files, user make differnet choices but same code for everyone. 
+//note: https:// -- dashboard.heroku.com/apps/infinite-cove-53931 heroku webhost for webApp.
 
 app.use('/api', routes) //telling app what o use api routes. 
 // assigns to watch/listen what port our messages will be used local is 3000.
